@@ -1,0 +1,15 @@
+<Module specificationVersion='2'>
+    <ModulePrefs
+            title="Accidentabilidad"
+            description="accidentabilidad prueba"
+            author="JZ"
+            thumbnail="https://fonfriaabogados.com/wp-content/uploads/2019/04/divorcio-expres-abogado-350x345.png"
+            height="800" >
+    </ModulePrefs>
+    <UserPref
+        name="mycolor"
+        display_name="Color"
+        default_value="Lime"
+        datatype="string" />
+    <Content type="html" href="https://raw.githubusercontent.com/JoZet/demo-html/master/index.html"/>
+</Module>
